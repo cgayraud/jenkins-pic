@@ -41,8 +41,8 @@ Go to manage Manage jenkins -> Configuration system
 Sonarqube server   
 Tick enable injection  ....
 Press the button add sonarQube
-Name: SonarQube  
-ServerURL: http://sonar:9000    
+Name:   
+ServerURL:    http://sonar:9000 
 Type this URL without leading whitespaces  
 click on  add , select jenkins   
 you are going to create a new credential for sonar     
